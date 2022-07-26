@@ -17,6 +17,7 @@ import java.util.Scanner;
 
 public class TestPerson {
     public static void main(String[] args) throws ParseException {
+		System.out.println("*******");
 //        PersonModel personModel=new PersonModel("121","Nguyen van Dong","My son","Nam");
 //        PersonControl personControl=new PersonControl();
 //        PersonDAO personDAO=new PersonDAO();
